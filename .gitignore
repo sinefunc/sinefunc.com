@@ -1,0 +1,4 @@
+*.sw?
+*~
+Thumbs.db
+.DS_Store
